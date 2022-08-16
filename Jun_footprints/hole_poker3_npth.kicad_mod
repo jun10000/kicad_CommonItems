@@ -1,0 +1,14 @@
+(footprint "hole_poker3_npth" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -2.09 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 66c76ee1-b6d1-4832-b12b-992610029927)
+  )
+  (fp_text value "hole_poker3_npth" (at 0 2.174 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9dcf7d3e-3714-49bd-b483-8176a6afcf56)
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 7.00024 2.4994) (drill oval 7.00024 2.4994) (layers *.Mask) (tstamp 97030557-9bcc-4633-a0cf-04624ea3e5d2))
+)

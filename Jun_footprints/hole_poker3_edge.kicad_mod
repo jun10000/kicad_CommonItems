@@ -1,0 +1,17 @@
+(footprint "hole_poker3_edge" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -2.16 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 66c76ee1-b6d1-4832-b12b-992610029927)
+  )
+  (fp_text value "hole_poker3_edge" (at 0 2.244 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9dcf7d3e-3714-49bd-b483-8176a6afcf56)
+  )
+  (fp_line (start -2.25044 1.24968) (end 2.25044 1.24968) (layer "Edge.Cuts") (width 0.15) (tstamp 0552cc3e-40d5-4b39-bc49-4fea5c9da47c))
+  (fp_line (start -2.25044 -1.24968) (end 2.25044 -1.24968) (layer "Edge.Cuts") (width 0.15) (tstamp 5a390011-8bd1-4ad4-aef2-135600a518ff))
+  (fp_arc (start 2.25044 -1.24968) (mid 3.50012 0) (end 2.25044 1.24968) (layer "Edge.Cuts") (width 0.15) (tstamp bcc94a12-021d-4496-8621-9a4be12b57ac))
+  (fp_arc (start -2.25044 1.24968) (mid -3.50012 0) (end -2.25044 -1.24968) (layer "Edge.Cuts") (width 0.15) (tstamp eab44340-92da-40e4-9976-ea32f7c4e7ca))
+)
